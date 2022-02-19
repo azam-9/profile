@@ -1,0 +1,27 @@
+body{
+    scroll-behavior: smooth;
+}
+.nav-bar{
+    display: flex;
+    list-style-type: none; 
+    justify-content: space-around;
+    scroll-behavior: smooth;
+    background-color: black;
+    padding: 25px;
+}
+
+li a{
+    color: white;
+}
+
+div h1{
+    font-size:xx-large;
+}
+
+div p{
+    font-size:medium;
+    margin: unset;
+}
+#Work, #Academics, #Certs, #Skills{
+    padding: 15px;
+}
